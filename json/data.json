@@ -1,0 +1,19 @@
+{
+ "cwbopendata": {
+  "@xmlns": "urn:cwb:gov:tw:cwbcommon:0.1",
+  "identifier": "362b1c60-e375-4468-8c60-b1a240c4d6e1",
+  "sender": "weather@cwb.gov.tw",
+  "sent": "2019-09-02T17:10:47+08:00",
+  "status": "Actual",
+  "msgType": "Issue",
+  "dataid": "CWB_A0007",
+  "scope": "Public",
+  "dataset": {
+   "resource": {
+    "resourceDesc": "農業氣象旬報",
+    "mimeType": "application/pdf",
+    "uri": "https://opendata.cwb.gov.tw/fileapi/opendata/DIV3/C-A0007-001.pdf"
+   }
+  }
+ }
+}
